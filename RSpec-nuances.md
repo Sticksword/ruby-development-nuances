@@ -1,5 +1,6 @@
 # rspec-nuances
 
+* command to install RSpec in a rails dir: `rails g rspec:install` (can probably delete the test folder that came with `rails new`)
 * [testing rails models with rspec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
   * [my code regarding this](https://github.com/Sticksword/RSpec-tutorial)
 * [difference between let and subject](https://github.com/reachlocal/rspec-style-guide/issues/6)
