@@ -1,4 +1,6 @@
-# rspec-nuances [back](readme.md)
+# rspec-nuances
+
+#### [back to index](readme.md)
 
 * command to install RSpec in a rails dir: `rails g rspec:install` (can probably delete the test folder that came with `rails new`)
 * [testing rails models with rspec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)

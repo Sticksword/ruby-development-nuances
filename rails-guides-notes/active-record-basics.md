@@ -1,5 +1,7 @@
 [Source](http://guides.rubyonrails.org/active_record_basics.html)
 
+#### [back to rails nuances index](rails-nuances.md)
+
 * Active Record is the M in MVC ==> follows the idea that objects carry both persistent data and behavior which operates on that data
 * Active Record is an ORM framework essentially
 * uses integer `id` column by default as primary key

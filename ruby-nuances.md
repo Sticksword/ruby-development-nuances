@@ -1,4 +1,6 @@
-# ruby-nuances [back](readme.md)
+# ruby-nuances
+
+#### [back to index](readme.md)
 
 * [good resource for picking up Ruby from scratch](https://www.codecademy.com/learn/ruby)
 * [another good resource for getting to know Ruby and its OOP principles](http://www.poodr.com/)
