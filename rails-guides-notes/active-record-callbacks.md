@@ -1,3 +1,3 @@
 
 
-#### [back to rails nuances index](rails-nuances.md)
+#### [back to rails nuances index](../rails-nuances.md)

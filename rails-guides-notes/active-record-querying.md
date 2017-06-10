@@ -60,3 +60,18 @@
   * maps int column to set of possible values
   * also creates corresponding scopes to query the model
   * can switch between each of the states in an enum and can query current state too
+* Active Record allows for method chaining if all previous method calls return an `ActiveRecord::Relation`
+  * eg. `Person
+  .select('people.id, people.name, comments.text')
+  .joins(:comments)
+  .where('comments.created_at > ?', 1.week.ago)`
+* If you feel gross and want to use raw SQL: `<Object>.find_by_sql("SQL SQL SQL SQL SQL")`
+* can select certain columns via `pluck(:column, :another_column)`
+* can perform calculations on queries:
+  * `Client.count` -> `SELECT count(*) AS count_all FROM clients`
+  * `Client.average("orders_count")`
+  * `Client.minimum("age")`
+  * `Client.maximum("age")`
+  * `Client.sum("orders_count")`
+* EXPLAIN works in Rails too!! (highly useful)
+  * try this: `User.where(id: 1).joins(:articles).explain`

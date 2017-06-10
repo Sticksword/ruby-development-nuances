@@ -1,6 +1,6 @@
 [Source](http://guides.rubyonrails.org/initialization.html)
 
-#### [back to rails nuances index](rails-nuances.md)
+#### [back to rails nuances index](../rails-nuances.md)
 
 * `rails server` is equivalent to `exec ruby bin/rails server` which runs `rails.rb` in the bin folder
   * loads up `config/application.rb` for the application itself
