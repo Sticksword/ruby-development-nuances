@@ -9,3 +9,4 @@
   * [another stackoverflow explanation](https://stackoverflow.com/questions/38437162/whats-the-difference-between-rspecs-subject-and-let-when-should-they-be-used)
 * [using factory_girl with RSpec](http://www.rubydoc.info/gems/factory_girl/file/GETTING_STARTED.md)
 * [factory_girl has_one association example](https://stackoverflow.com/questions/31124409/factory-girl-has-one-association)
+* [be true vs. be_truthy nuance](https://stackoverflow.com/questions/26779937/what-is-the-difference-between-be-true-and-be-true-in-rspec)
