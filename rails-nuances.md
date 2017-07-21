@@ -12,3 +12,10 @@
   * [active record validations](rails-guides-notes/active-record-validations.md)
   * [rails initialization process](rails-guides-notes/rails-initialization-process.md)
 * [explanation of change from ActiveRecord::Base to ApplicationRecord](http://blog.bigbinary.com/2015/12/28/application-record-in-rails-5.html)
+* [rails logging for any cli task]()
+  ```
+  task log: :environment do
+    ActiveRecord::Base.logger = Logger.new(STDOUT)
+  end
+  ```
+  

@@ -15,3 +15,7 @@
 * [idk just read this, it's about `respond_to?` for Ruby](https://stackoverflow.com/questions/17893977/confused-about-respond-to-method)
 * [send vs public_send](https://stackoverflow.com/questions/30401970/what-is-the-difference-between-ruby-send-and-ruby-public-send-method)
 * [map vs each](https://learn.onemonth.com/ruby-tutorial-map-vs-each-a692b63e1850)
+* [blocks and yields in Ruby](https://stackoverflow.com/questions/3066703/blocks-and-yields-in-ruby)
+* [more block stuff](https://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes)
+* [merge and reverse merge explanation](http://rubyquicktips.com/post/5186906190/merge-or-reversemerge-a-hash)
+* [method aliasing](http://kishore-m.com/rails/alias-alias-method/)
