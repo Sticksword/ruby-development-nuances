@@ -19,3 +19,8 @@
 * [more block stuff](https://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes)
 * [merge and reverse merge explanation](http://rubyquicktips.com/post/5186906190/merge-or-reversemerge-a-hash)
 * [method aliasing](http://kishore-m.com/rails/alias-alias-method/)
+* [`tap` explanation](https://medium.com/aviabird/ruby-tap-that-method-90c8a801fd6a)
+* [what is `::`](https://stackoverflow.com/questions/3009477/what-is-rubys-double-colon)
+* [explanation of what `class << self` idiom does](https://stackoverflow.com/questions/2505067/class-self-idiom-in-ruby)
+* [each with object explanation](https://stackoverflow.com/questions/19064209/how-is-each-with-object-supposed-to-work)
+* [constant resolution explanation](http://valve.github.io/blog/2013/10/26/constant-resolution-in-ruby/)
