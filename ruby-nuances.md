@@ -24,3 +24,10 @@
 * [explanation of what `class << self` idiom does](https://stackoverflow.com/questions/2505067/class-self-idiom-in-ruby)
 * [each with object explanation](https://stackoverflow.com/questions/19064209/how-is-each-with-object-supposed-to-work)
 * [constant resolution explanation](http://valve.github.io/blog/2013/10/26/constant-resolution-in-ruby/)
+* [module_function - exposing a method from a module as a static method -> `Mod.method`](https://apidock.com/ruby/Module/module_function)
+* [StackOverflow answer about module_function vs including module](https://stackoverflow.com/questions/11550213/ruby-module-function-vs-including-module)
+* `module_function` makes the given instance methods private, then duplicates and puts them into the module's metaclass as public methods. `extend self` adds all instance methods to the module's singleton, leaving their visibilities unchanged.
+* [`extend_self` vs `module_function`](https://stackoverflow.com/questions/2353498/is-extend-self-the-same-as-module-function)
+* [`include` vs `require` in Ruby](https://stackoverflow.com/questions/318144/what-is-the-difference-between-include-and-require-in-ruby)
+  * include just adds the file to the current file (kind of like copy and paste) whereas require runs the code once and has it in memory
+* [formatting date and time stuff](https://apidock.com/ruby/DateTime/strftime)

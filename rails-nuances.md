@@ -21,3 +21,5 @@
 * [resource vs resources explanation](https://stackoverflow.com/questions/9194767/difference-between-resource-and-resources-methods)
 * [ruby lambda syntax explanation](https://stackoverflow.com/questions/8476627/what-do-you-call-the-operator-in-ruby)
 * [when you want more complex presentational logic but want to keep them in the presentation layer and not in a model](https://github.com/drapergem/draper)
+* [rails model cheatsheet](https://gist.github.com/rstacruz/1569572)
+* [when auto pathing for a resource goes wrong (you need custom functionality)](https://stackoverflow.com/questions/37556575/module-route-in-rails-with-form-forobject)
