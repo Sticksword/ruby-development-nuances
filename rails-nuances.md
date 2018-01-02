@@ -23,3 +23,4 @@
 * [when you want more complex presentational logic but want to keep them in the presentation layer and not in a model](https://github.com/drapergem/draper)
 * [rails model cheatsheet](https://gist.github.com/rstacruz/1569572)
 * [when auto pathing for a resource goes wrong (you need custom functionality)](https://stackoverflow.com/questions/37556575/module-route-in-rails-with-form-forobject)
+* [refactoring rails code using adapter, services, and decorator pattern (parts 2 and 3 are linked at bottom of article)](http://www.thegreatcodeadventure.com/rails-refactoring-part-i-the-adapter-pattern/)
