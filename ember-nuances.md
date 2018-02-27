@@ -10,3 +10,10 @@ too lazy to create separate repo so shoving it here:
 * [use `async/await` in lieu of promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 * [misc: svg resizing](https://css-tricks.com/scale-svg/)
+* [misc: BEM CSS style guide](https://css-tricks.com/bem-101/)
+
+http://square.github.io/okhttp/3.x/
+https://www.pantsbuild.org/index.html
+http://square.github.io/retrofit/
+go/java
+https://wiki.corp.squareup.com/display/SC/Introduction+to+Service+Container

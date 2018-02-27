@@ -2,6 +2,7 @@
 
 #### [back to index](readme.md)
 
+* [a nice ruby regex playground](http://rubular.com/)
 * [good resource for picking up Ruby from scratch](https://www.codecademy.com/learn/ruby)
 * [another good resource for getting to know Ruby and its OOP principles](http://www.poodr.com/)
 * [`def self.<function-name>` explained](https://stackoverflow.com/questions/13706373/what-does-def-self-function-name-mean)
@@ -31,3 +32,9 @@
 * [`include` vs `require` in Ruby](https://stackoverflow.com/questions/318144/what-is-the-difference-between-include-and-require-in-ruby)
   * include just adds the file to the current file (kind of like copy and paste) whereas require runs the code once and has it in memory
 * [formatting date and time stuff](https://apidock.com/ruby/DateTime/strftime)
+* [extend vs include](http://www.railstips.org/blog/archives/2009/05/15/include-vs-extend-in-ruby/)
+* [url encoding](http://ruby-doc.org/stdlib-2.4.1/libdoc/base64/rdoc/Base64.html#method-i-urlsafe_decode64)
+* [rails race condition SO post](https://stackoverflow.com/questions/3037029/how-do-i-avoid-a-race-condition-in-my-rails-app)
+* [another rails race condition SO post](https://stackoverflow.com/questions/10641647/race-conditions-in-rails-first-or-create)
+* [rails cache](http://api.rubyonrails.org/classes/ActiveSupport/Cache/Store.html)
+* [remote ip vs ip - basically use remote ip](https://stackoverflow.com/questions/10997005/whats-the-difference-between-request-remote-ip-and-request-ip-in-rails)
