@@ -38,3 +38,6 @@
 * [another rails race condition SO post](https://stackoverflow.com/questions/10641647/race-conditions-in-rails-first-or-create)
 * [rails cache](http://api.rubyonrails.org/classes/ActiveSupport/Cache/Store.html)
 * [remote ip vs ip - basically use remote ip](https://stackoverflow.com/questions/10997005/whats-the-difference-between-request-remote-ip-and-request-ip-in-rails)
+* [rvm basics](https://rvm.io/rvm/basics)
+* [introducing `dig`!!](https://www.tiagoamaro.com.br/2016/08/27/ruby-2-3-dig/)
+* [apparently you can run `group_by` on an enumerable and it will behave like SQL](https://apidock.com/rails/Enumerable/group_by)
