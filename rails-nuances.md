@@ -26,3 +26,4 @@
 * [refactoring rails code using adapter, services, and decorator pattern (parts 2 and 3 are linked at bottom of article)](http://www.thegreatcodeadventure.com/rails-refactoring-part-i-the-adapter-pattern/)
 * [solid rails digital book](https://handbook.infinum.co/books/rails)
 * [Rails has a built-in memory cache for quick and dirty stuff](http://api.rubyonrails.org/classes/ActiveSupport/Cache/MemoryStore.html)
+* [Rails CORS setup for just a Rails API](https://til.hashrocket.com/posts/4d7f12b213-rails-5-api-and-cors)
